@@ -1,0 +1,562 @@
+
+{
+   "allocations" : [ {
+      "site" : {
+         "id" : 350,
+         "siteId" : 350,
+         "flaechenNummer" : 350,
+         "stationName" : "Aschaffenburg Hbf",
+         "siteName" : "Parkhaus Aschaffenburg Hauptbahnhof",
+         "displayName" : "Aschaffenburg Hbf P1 Parkhaus"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:34:15",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 288,
+         "siteId" : 288,
+         "flaechenNummer" : 288,
+         "stationName" : "Berlin Ostbahnhof",
+         "siteName" : "Parkplatz Berlin Ostbahnhof",
+         "displayName" : "Berlin Ostbahnhof P1 Parkplatz"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:36:00",
+         "timeSegment" : "2016-09-02T23:35:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 289,
+         "siteId" : 289,
+         "flaechenNummer" : 289,
+         "stationName" : "Berlin Ostbahnhof",
+         "siteName" : "Tiefgarage Berlin Ostbahnhof",
+         "displayName" : "Berlin Ostbahnhof P2 Tiefgarage"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:36:00",
+         "timeSegment" : "2016-09-02T23:35:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 25,
+         "siteId" : 25,
+         "flaechenNummer" : 25,
+         "stationName" : "Berlin SÃ¼dkreuz",
+         "siteName" : "Parkhaus Bahnhof Berlin SÃ¼dkreuz",
+         "displayName" : "Berlin SÃ¼dkreuz P1 Parkhaus"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:27:00",
+         "timeSegment" : "2016-09-02T23:25:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 28,
+         "siteId" : 28,
+         "flaechenNummer" : 28,
+         "stationName" : "Bonn Hbf",
+         "siteName" : "Parkhaus Bonn Hauptbahnhof",
+         "displayName" : "Bonn Hbf P1 Parkhaus"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:33:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 29,
+         "siteId" : 29,
+         "flaechenNummer" : 29,
+         "stationName" : "Braunschweig Hbf",
+         "siteName" : "Parkplatz Hauptbahnhof Nord",
+         "displayName" : "Braunschweig Hbf P1 Parkplatz Nord"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:33:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 31,
+         "siteId" : 31,
+         "flaechenNummer" : 31,
+         "stationName" : "Bremen Hbf",
+         "siteName" : "Hochgarage am Bahnhof",
+         "displayName" : "Bremen Hbf P1 Hochgarage am Bahnhof"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:35:01",
+         "timeSegment" : "2016-09-02T23:35:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 419,
+         "siteId" : 419,
+         "flaechenNummer" : 419,
+         "stationName" : "DÃ¼ren",
+         "siteName" : "Ludwig-Erhard-Platz",
+         "displayName" : ""
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:34:13",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 46,
+         "siteId" : 46,
+         "flaechenNummer" : 46,
+         "stationName" : "DÃ¼sseldorf Hbf",
+         "siteName" : "Parkhaus DÃ¼sseldorf Hauptbahnhof",
+         "displayName" : "DÃ¼sseldorf Hbf P3 Parkhaus"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:32:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 390,
+         "siteId" : 390,
+         "flaechenNummer" : 390,
+         "stationName" : "Duisburg Hbf",
+         "siteName" : "Parkhaus Duisburg Hauptbahnhof",
+         "displayName" : ""
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:23:00",
+         "timeSegment" : "2016-09-02T23:20:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 50,
+         "siteId" : 50,
+         "flaechenNummer" : 50,
+         "stationName" : "Essen Hbf",
+         "siteName" : "Parkhaus Essen Hauptbahnhof",
+         "displayName" : "Essen Hbf P1 Parkhaus"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:35:00",
+         "timeSegment" : "2016-09-02T23:35:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 56,
+         "siteId" : 56,
+         "flaechenNummer" : 56,
+         "stationName" : "Frankfurt (Main) Hbf",
+         "siteName" : "Tiefgarage Hauptbahnhof Nord",
+         "displayName" : "Frankfurt (Main) Hbf P1 Tiefgarage Hbf Nord"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:30:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 57,
+         "siteId" : 57,
+         "flaechenNummer" : 57,
+         "stationName" : "Frankfurt (Main) Hbf",
+         "siteName" : "Hauptbahnhof Vorfahrt I",
+         "displayName" : "Frankfurt (Main) Hbf P2 Vorfahrt I"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:30:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 3,
+         "text" : "> 30"
+      }
+   }, {
+      "site" : {
+         "id" : 58,
+         "siteId" : 58,
+         "flaechenNummer" : 58,
+         "stationName" : "Frankfurt (Main) Hbf",
+         "siteName" : "Hauptbahnhof Vorfahrt II",
+         "displayName" : "Frankfurt (Main) Hbf P3 Vorfahrt II"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:30:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 2,
+         "text" : "> 10"
+      }
+   }, {
+      "site" : {
+         "id" : 346,
+         "siteId" : 346,
+         "flaechenNummer" : 346,
+         "stationName" : "Freiburg (Breisgau) Hbf",
+         "siteName" : "Tiefgarage am Bahnhof",
+         "displayName" : "Freiburg (Breisgau) Hbf P1 Tiefgarage am Bahnhof"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:33:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 363,
+         "siteId" : 363,
+         "flaechenNummer" : 363,
+         "stationName" : "GieÃŸen",
+         "siteName" : "Parkhaus am Bahnhof",
+         "displayName" : "GieÃŸen P1 Parkhaus am Bahnhof"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:34:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 366,
+         "siteId" : 366,
+         "flaechenNummer" : 366,
+         "stationName" : "Halle (Saale) Hbf",
+         "siteName" : "Tiefgarage Charlottencenter",
+         "displayName" : "Halle Hbf P3 Tiefgarage Charlottencenter"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:33:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 277,
+         "siteId" : 277,
+         "flaechenNummer" : 277,
+         "stationName" : "Hamburg Hbf",
+         "siteName" : "Parkhaus Hauptbahnhof Centrum HÃ¼hnerposten",
+         "displayName" : "Hamburg Hbf P1 Parkhaus Hbf Centrum HÃ¼hnerposten"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:34:40",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 418,
+         "siteId" : 418,
+         "flaechenNummer" : 418,
+         "stationName" : "Hannover Hbf",
+         "siteName" : "Tiefgarage Justizzentrum",
+         "displayName" : "Hannover Hbf P7 Tiefgarage Justizzentrum"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:25:00",
+         "timeSegment" : "2016-09-02T23:25:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 95,
+         "siteId" : 95,
+         "flaechenNummer" : 95,
+         "stationName" : "Heilbronn Hbf",
+         "siteName" : "Parkplatz Heilbronn Hauptbahnhof",
+         "displayName" : "Heilbronn Hbf P1 Parkplatz"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:33:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 103,
+         "siteId" : 103,
+         "flaechenNummer" : 103,
+         "stationName" : "Kaiserslautern Hbf",
+         "siteName" : "Park+Ride-Parkhaus Hauptbahnhof",
+         "displayName" : "Kaiserslautern Hbf P2 Park+Ride-Parkhaus"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:30:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 111,
+         "siteId" : 111,
+         "flaechenNummer" : 111,
+         "stationName" : "Kassel-WilhelmshÃ¶he",
+         "siteName" : "Parkplatz Bahnhof Kassel-WilhelmshÃ¶he",
+         "displayName" : "Kassel-WilhelmshÃ¶he P1 Parkplatz"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:34:21",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 2,
+         "text" : "> 10"
+      }
+   }, {
+      "site" : {
+         "id" : 437,
+         "siteId" : 437,
+         "flaechenNummer" : 437,
+         "stationName" : "Kassel-WilhelmshÃ¶he",
+         "siteName" : "Parkdeck Bahnhof Kassel-WilhelmshÃ¶he",
+         "displayName" : "Kassel-WilhelmshÃ¶he P2 Parkdeck"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:34:21",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 400,
+         "siteId" : 400,
+         "flaechenNummer" : 400,
+         "stationName" : "Magdeburg Hbf",
+         "siteName" : "Parkgarage City CarrÃ© / Hauptbahnhof",
+         "displayName" : "Magdeburg Hbf P1 Parkgarage City CarrÃ© / Hbf"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:32:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 415,
+         "siteId" : 415,
+         "flaechenNummer" : 415,
+         "stationName" : "Magdeburg Hbf",
+         "siteName" : "City CarrÃ© / Hbf - Tiefpreisparken",
+         "displayName" : "Magdeburg Hbf P2 City CarrÃ© / Hbf Tiefpreisparken"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:32:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 440,
+         "siteId" : 440,
+         "flaechenNummer" : 440,
+         "stationName" : "Mainz Hbf",
+         "siteName" : "Tiefgarage Bonifazius-TÃ¼rme UG -1",
+         "displayName" : "Mainz Hbf P3 Tiefgarage Bonifazius-TÃ¼rme UG -1"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:25:00",
+         "timeSegment" : "2016-09-02T23:25:00"
+      }
+   }, {
+      "site" : {
+         "id" : 441,
+         "siteId" : 441,
+         "flaechenNummer" : 441,
+         "stationName" : "Mainz Hbf",
+         "siteName" : "Tiefgarage Bonifazius-TÃ¼rme UG -2",
+         "displayName" : "Mainz Hbf P4 Tiefgarage Bonifazius-TÃ¼rme UG -2"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:25:00",
+         "timeSegment" : "2016-09-02T23:25:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 298,
+         "siteId" : 298,
+         "flaechenNummer" : 298,
+         "stationName" : "MÃ¼nchen Hbf",
+         "siteName" : "Tiefgarage MÃ¼nchen Hauptbahnhof SÃ¼d",
+         "displayName" : "MÃ¼nchen Hbf P4 Tiefgarage Hbf SÃ¼d"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:24:00",
+         "timeSegment" : "2016-09-02T23:20:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 378,
+         "siteId" : 378,
+         "flaechenNummer" : 378,
+         "stationName" : "Passau Hbf",
+         "siteName" : "Parkhaus Donaupassage",
+         "displayName" : "Passau Hbf P4 Parkhaus Donaupassage"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:39:00",
+         "timeSegment" : "2016-09-02T23:35:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 333,
+         "siteId" : 333,
+         "flaechenNummer" : 333,
+         "stationName" : "Regensburg Hbf",
+         "siteName" : "Tiefgarage Hauptbahnhof / Castra Regina Center",
+         "displayName" : "Regensburg Hbf P5 Tiefgarage Hbf / Castra Regina Center"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:31:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 227,
+         "siteId" : 227,
+         "flaechenNummer" : 227,
+         "stationName" : "Stuttgart Hbf",
+         "siteName" : "Tiefgarage LBBW",
+         "displayName" : "Stuttgart Hbf P1 Tiefgarage LBBW"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:30:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 199,
+         "siteId" : 199,
+         "flaechenNummer" : 199,
+         "stationName" : "Ulm Hbf",
+         "siteName" : "Parkplatz Ulm Hauptbahnhof",
+         "displayName" : ""
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:31:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 3,
+         "text" : "> 30"
+      }
+   }, {
+      "site" : {
+         "id" : 387,
+         "siteId" : 387,
+         "flaechenNummer" : 387,
+         "stationName" : "Ulm Hbf",
+         "siteName" : "Tiefgarage Ulm Hbf / InterCityHotel",
+         "displayName" : "Ulm Hbf P3 Tiefgarage Hbf / InterCityHotel"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:28:00",
+         "timeSegment" : "2016-09-02T23:25:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 345,
+         "siteId" : 345,
+         "flaechenNummer" : 345,
+         "stationName" : "Wolfsburg Hbf",
+         "siteName" : "Parkdeck Wolfsburg Hauptbahnhof",
+         "displayName" : "Wolfsburg Hbf P1 Parkdeck"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:33:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 4,
+         "text" : "> 50"
+      }
+   }, {
+      "site" : {
+         "id" : 352,
+         "siteId" : 352,
+         "flaechenNummer" : 352,
+         "stationName" : "Wolfsburg Hbf",
+         "siteName" : "Tiefgarage Hauptbahnhof / Kino",
+         "displayName" : "Wolfsburg Hbf P2 Tiefgarage Hbf / Kino"
+      },
+      "allocation" : {
+         "validData" : true,
+         "timestamp" : "2016-09-02T23:32:00",
+         "timeSegment" : "2016-09-02T23:30:00",
+         "category" : 2,
+         "text" : "> 10"
+      }
+   } ]
+}
